@@ -1,5 +1,7 @@
 #### <sup>:closed_book: [workshop-generative-art](../README.md) → Cheat Sheet</sup>
 
+thanks
+
 ---
 
 # Cheat Sheet
